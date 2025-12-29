@@ -1,4 +1,4 @@
-# spotify clone
+# Spotify Clone
 A static web page inspired by Spotify, built using HTML and CSS.
 
 ## Description
